@@ -9,3 +9,5 @@ or https://tinyurl.com/5de79nvn <br>
 * **Technical Support -** https://www.uipath.com/company/contact-us/contact-technical-support
 * **Sales Support -** https://www.uipath.com/company/contact-us/licensing-queries-activations
 * **Academy Support -** https://www.uipath.com/company/contact-us/contact-academy
+
+![image](https://github.com/toarnabtrainer/UiPath_Training/assets/111301975/4527f8d8-53a0-4584-a820-dee3f14048b9)
