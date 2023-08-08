@@ -1,7 +1,8 @@
 # Uipath_Training_Resources
 
 * **GitHub URL -** https://github.com/toarnabtrainer/Uipath_Training_Resources<br>
-**or** https://www.rpasamples.com/unicornname
+**or** https://www.rpasamples.com/unicornname<br>
+* **Feedback Link -** https://excelprodigy.in/feedback/
   
 * **Process Automation Software - Request your free download (uipath.com) -** https://www.uipath.com/developers/studio-download
 * **UiPath Official Documentation and Tutorials -** https://docs.uipath.com/studio/standalone/2023.10/user-guide/tutorials
